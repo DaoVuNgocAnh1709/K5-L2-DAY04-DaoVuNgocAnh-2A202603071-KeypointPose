@@ -1,0 +1,43 @@
+{
+ "mssv": "202603071",
+ "ten": "DaoVuNgocAnh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "ngocanh",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000177889.jpg",
+  "000000184224.jpg",
+  "000000196283.jpg",
+  "000000451084.jpg",
+  "000000525227.jpg",
+  "000000122199.jpg",
+  "000000461389.jpg",
+  "000000521817.jpg",
+  "000000022857.jpg",
+  "000000307757.jpg",
+  "000000106051.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_359139.jpg",
+  "face_496353.jpg",
+  "face_185015.jpg",
+  "face_449454.jpg",
+  "face_380754.jpg",
+  "face_13874.jpg",
+  "face_159828.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-DaoVuNgocAnh"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-DaoVuNgocAnh"
+  }
+ }
+}
